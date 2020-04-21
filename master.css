@@ -1,0 +1,181 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+p{
+  font-family: 'Spartan', sans-serif;
+}
+label{
+  font-family: 'Hind Madurai', sans-serif;
+}
+h1{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  margin: -18;
+  margin-left: -93px;
+}
+h2{
+  font-family: 'Spartan', sans-serif;
+}
+a{
+  font-family: 'Abril Fatface', cursive;
+}
+.top-tile{
+  background-color: #e5e5db;
+  font-family: sans-serif;
+  background-size: cover;
+}
+.first-img{
+height: 125px;
+width: 175px;
+display: inline-block;
+margin-left: -600px;
+}
+.second-img{
+  height: 300px;
+  width:400px;
+  display: inline-block;
+  margin-left: 235px;
+  }
+nav{
+  padding-top: 60px;
+  padding-right: 75px;
+  display: inline-block;
+  float: right;
+  margin-top: 5px;
+  margin-right: 10px;
+
+}
+p{
+  margin-left: -82px;
+}
+a{
+  text-decoration: none;
+  color: #afafac;
+  padding: 10px;
+}
+.third-img{
+  height: 125px;
+  width: 175px;
+  display: inline-block;
+  float: right;
+  margin-right: 290px;
+}
+.eng{
+  text-decoration: underline;
+}
+.second-tile{
+height: auto;
+width: auto;
+background-color: #c9c6b9;
+}
+.third-tile{
+  margin: auto;
+  height: auto;
+  width: auto;
+  background-color: #c7e5e2;
+}
+.pho{
+  padding-top: 35px;
+  padding-left: 100px;
+  display: block;
+  height: 80px;
+  width: 100px;
+}
+.about{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+.bike{
+padding: 10px;
+float: left;
+width: 20%;
+}
+.bike-div
+{
+text-align: left;
+}
+.fisher{
+  margin-left: 450px;
+  width: 20%;
+}
+.fisher-div{
+  text-align: left;
+}
+h3{
+  padding: 10px;
+  margin: auto;
+}
+.fh{
+  margin-left: 455px;
+}
+.fp{
+  margin-left: 30px;
+      float: left;
+      clear: both;
+}
+h2{
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.myButton {
+	box-shadow:inset -8px 4px 27px -14px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:13px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:6px 24px;
+  margin-bottom: 10px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+#txtarea{
+  padding: 10px;
+  margin: 2px;
+  margin-bottom: 5px;
+}
+.com{
+  display: inline-block;
+  margin-left: 62px;
+  clear: both;
+  vertical-align: top;
+}
+
+footer {
+    margin-top: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #00e6e6;
+    color: #fff;
+}
+.css-input {
+     margin: 15px;
+     padding: 10px;
+     font-size: 16px;
+     border-width: 0px;
+     border-color: #CCCCCC;
+     background-color: #FFFFFF;
+     color: #000000;
+     border-style: solid;
+     border-radius: 8px;
+     box-shadow: 0px 0px 5px rgba(66,66,66,.75);
+     text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+}
+ .css-input:focus {
+     outline:none;
+}
